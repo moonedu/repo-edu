@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxstd:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-11T11:34:01.2328561+09:00"
+    description: Standard Nginx Helm for Edu
+    digest: 983fe809eaafe1f6c2a8024add059bfa4ef6239ee8348c42e9adb79fe9943f7d
+    name: nginxstd
+    type: application
+    urls:
+    - nginxstd-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-11T11:34:01.2318503+09:00"
