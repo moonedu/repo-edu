@@ -3,12 +3,12 @@ entries:
   nginxstd:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-11T11:34:01.2328561+09:00"
-    description: Standard Nginx Helm for Edu
-    digest: 983fe809eaafe1f6c2a8024add059bfa4ef6239ee8348c42e9adb79fe9943f7d
+    created: "2022-06-11T13:46:13.1738308+09:00"
+    description: A Helm chart for Kubernetes
+    digest: ed3530db36ca69c85ffc49bd537e11123f376cde0e21bab948d93b14cb3b5808
     name: nginxstd
     type: application
     urls:
     - nginxstd-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-11T11:34:01.2318503+09:00"
+generated: "2022-06-11T13:46:13.1738308+09:00"
